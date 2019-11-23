@@ -3,8 +3,8 @@ Please refer the header of the [library](myGLCD.c)
 
 ### Contents
 This project has:
-- Wiring Diagram will be added, viewable with [Fritzing](). Currently found in: https://drive.google.com/file/d/0BzytVYRRva62NUtJbW5iTG5LWTQ/view 
-- Library itself
+- [Wiring Diagram](wiring.fzz), viewable with [Fritzing]().
+- [Library](myGLCD.c) itself
 
 ### Design Features
 This library was designed with the following points in mind
