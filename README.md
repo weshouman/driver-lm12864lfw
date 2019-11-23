@@ -3,7 +3,7 @@ Please refer the header of the [library](myGLCD.c)
 
 ### Contents
 This project has:
-- [Wiring Diagram](wiring.fzz), viewable with [Fritzing]().
+- [Wiring Diagram](wiring.fzz), viewable with [Fritzing](https://fritzing.org/home/).
 - [Library](myGLCD.c) itself
 
 ### Design Features
